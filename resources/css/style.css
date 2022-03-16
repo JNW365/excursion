@@ -25,3 +25,28 @@ h1 {
     align-items: center;
     margin: 30px;
 }
+/* tent section */
+.tent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tent h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    font-size: 42px;
+    border: 1px solid white;
+    margin-bottom: 30px;
+}
+
+.tent p {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    margin: 20px;
+}
+#tent {
+    margin: 25px;
+}
